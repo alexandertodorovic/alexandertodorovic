@@ -4,7 +4,7 @@
 - 👀 I’m interested in Data Analytics, AI, Python, and SQL.
 - 🌱 I’m currently learning about GitHub Actions and AI-assisted programming.
 - 💞️ I’m looking to collaborate on open-source projects. As I'm a full-time developer, I can only participate in small tasks within projects.
-- 📫 You can reach me by creating an issue on this repository or via [LinkedIn Alexander Todorovic](https://www.linkedin.com/in/alexander-todorovic-hitosuji/)
+- 📫 You can reach me via [LinkedIn Alexander Todorovic](https://www.linkedin.com/in/alexander-todorovic-hitosuji/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm actively practicing karate and learning Japanese.
 
