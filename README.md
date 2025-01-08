@@ -3,7 +3,7 @@
 - 👋 Hi, I am @alexandertodorovic
 - 👀 I am interested in Data Analytics, AI, Python, and SQL.
 - 🌱 I am currently learning about Kubernetes, GitHub Actions, and AI-assisted programming.
-- 💞️ Ia m looking to collaborate on open-source projects. As I'm a full-time developer, I can only participate in small tasks within projects.
+- 💞️ I am looking to collaborate on open-source projects. As I'm a full-time developer, I can only participate in small tasks within projects.
 - 📫 You can reach me via [LinkedIn Alexander Todorovic](https://www.linkedin.com/in/alexander-todorovic-hitosuji/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am actively practicing karate and learning Japanese.
