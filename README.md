@@ -1,8 +1,8 @@
 # About me
 
 - 👋 Hi, I am @alexandertodorovic
-- 👀 I'm interested in Data Analytics, AI, Python, and SQL.
-- 🌱 I'm currently learning about Kubernetes, GitHub Actions, and AI-assisted programming.
+- 👀 I'm interested in Data Analytics, AI, Python, SQL and Kubernetes.
+- 🌱 I'm currently learning about AI-assisted programming.
 - 💞️ I'm looking to collaborate on open-source projects. As I'm a full-time software developer, I can only participate in small tasks within projects.
 - 📫 You can reach me via [LinkedIn Alexander Todorovic](https://www.linkedin.com/in/alexander-todorovic-hitosuji/)
 - 😄 Pronouns: He/Him
