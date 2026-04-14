@@ -12,6 +12,7 @@ Feel free to check out my projects and connect with me!
 
 <table>
   <tr>
+    <td><a href="https://www.credly.com/badges/c096c4e8-8f15-4238-99c5-7eb96871f02f/public_url"><img src="https://images.credly.com/size/680x680/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" alt="Professional Scrum Product Owner™ I (PSPO I)" width="100"/></a></td>    
     <td><a href="https://www.credly.com/badges/6cb97e59-8028-45d3-a02e-0804f5f63c90/public_url"><img src="https://images.credly.com/size/680x680/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="Kubernetes and Cloud Native Associate" width="100"/></a></td>
     <td><a href="https://www.credly.com/badges/6332a8ca-8fcd-43c5-87e3-690b2eeeebee"><img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="100"/></a></td>
     <td><a href="https://www.credly.com/badges/ed370dc4-6ccc-431e-96cf-1bdd5a5e43c3"><img src="https://images.credly.com/size/680x680/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="GitHub Actions" width="100"/></a></td>
