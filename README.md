@@ -12,6 +12,7 @@ Feel free to check out my projects and connect with me!
 
 <table>
   <tr>
+    <td><a href="https://www.credly.com/badges/882f2221-5a33-4f5a-a1c0-4d25ba1dd18e/public_url"><img src="https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" alt="Professional Scrum Master™ I (PSM I)" width="100"/></a></td>
     <td><a href="https://www.credly.com/badges/aee6b92d-6b87-4c19-8c90-f8fcdea9276d/public_url"><img src="https://images.credly.com/size/680x680/images/d2298e82-b671-434a-876b-21a0ebc3af0e/image.png" alt="Professional Scrum Developer™ I (PSD I)" width="100"/></a></td>
     <td><a href="https://www.credly.com/badges/c096c4e8-8f15-4238-99c5-7eb96871f02f/public_url"><img src="https://images.credly.com/size/680x680/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" alt="Professional Scrum Product Owner™ I (PSPO I)" width="100"/></a></td>    
     <td><a href="https://www.credly.com/badges/6cb97e59-8028-45d3-a02e-0804f5f63c90/public_url"><img src="https://images.credly.com/size/680x680/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="Kubernetes and Cloud Native Associate" width="100"/></a></td>
